@@ -1,0 +1,46 @@
+stm32f3xx_hal_dma.pbi: \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_dma.c \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\Inc\stm32f3xx_hal_conf.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\Inc/main_F302.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_rcc.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_def.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F3xx\Include\stm32f3xx.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F3xx\Include/stm32f302x8.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include\core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.4\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include/cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\iccarm_builtin.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32F3xx\Include/system_stm32f3xx.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/Legacy/stm32_hal_legacy.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ysizet.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_rcc_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_gpio.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_gpio_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_dma.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_dma_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_cortex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_adc.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_adc_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_crc.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_crc_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_dac.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_dac_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_flash.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_flash_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_i2c.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_i2c_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_pwr.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_pwr_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_tim.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_tim_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc\stm32f3xx_hal_uart.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor\ Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\..\..\..\..\..\..\Drivers\STM32F3xx_HAL_Driver\Inc/stm32f3xx_hal_uart_ex.h

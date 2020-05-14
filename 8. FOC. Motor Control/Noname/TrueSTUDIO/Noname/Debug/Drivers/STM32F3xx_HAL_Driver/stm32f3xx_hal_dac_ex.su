@@ -1,0 +1,12 @@
+stm32f3xx_hal_dac_ex.c:1068:13:DAC_DMAErrorCh1	8	static
+stm32f3xx_hal_dac_ex.c:1051:13:DAC_DMAHalfConvCpltCh1	0	static
+stm32f3xx_hal_dac_ex.c:1033:13:DAC_DMAConvCpltCh1	8	static
+stm32f3xx_hal_dac_ex.c:112:19:HAL_DAC_SetValue	16	static
+stm32f3xx_hal_dac_ex.c:303:19:HAL_DAC_Start	4	static
+stm32f3xx_hal_dac_ex.c:493:19:HAL_DAC_Start_DMA	24	static
+stm32f3xx_hal_dac_ex.c:607:10:HAL_DAC_GetValue	0	static
+stm32f3xx_hal_dac_ex.c:625:10:HAL_DACEx_DualGetValue	0	static
+stm32f3xx_hal_dac_ex.c:730:6:HAL_DAC_IRQHandler	4	static
+stm32f3xx_hal_dac_ex.c:771:19:HAL_DAC_ConfigChannel	12	static
+stm32f3xx_hal_dac_ex.c:870:19:HAL_DACEx_TriangleWaveGenerate	8	static
+stm32f3xx_hal_dac_ex.c:919:19:HAL_DACEx_NoiseWaveGenerate	8	static

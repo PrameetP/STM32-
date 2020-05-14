@@ -1,0 +1,4 @@
+stm32F302_nucleo_ihm07m1.pbi: \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\6.\ BLDC\ Six\ Step\ Algorithm\Src\stm32F302_nucleo_ihm07m1.c \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\6.\ BLDC\ Six\ Step\ Algorithm\EWARM\STM32F302R8-Nucleo\..\..\Inc\stm32F302_nucleo_ihm07m1.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\6.\ BLDC\ Six\ Step\ Algorithm\EWARM\STM32F302R8-Nucleo\..\..\Inc/main_F302.h

@@ -1,0 +1,4 @@
+stm32F302_nucleo_ihm07m1.pbi: \
+  C:\Users\Prameet\Desktop\Speed\ Input\Src\stm32F302_nucleo_ihm07m1.c \
+  C:\Users\Prameet\Desktop\Speed\ Input\EWARM\Speed\ Input\..\..\Inc\stm32F302_nucleo_ihm07m1.h \
+  C:\Users\Prameet\Desktop\Speed\ Input\EWARM\Speed\ Input\..\..\Inc/main_F302.h

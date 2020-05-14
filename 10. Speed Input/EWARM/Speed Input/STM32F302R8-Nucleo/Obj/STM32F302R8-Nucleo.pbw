@@ -1,0 +1,2270 @@
+[
+  {
+    "ID": "c:@hadc1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "hadc1",
+    "location": {
+      "column": "19",
+      "line": "47",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "hadc1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@hdac",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "hdac",
+    "location": {
+      "column": "19",
+      "line": "49",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "hdac",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim1",
+    "location": {
+      "column": "19",
+      "line": "51",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "htim1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim2",
+    "location": {
+      "column": "19",
+      "line": "52",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "htim2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim6",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim6",
+    "location": {
+      "column": "19",
+      "line": "53",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "htim6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim16",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim16",
+    "location": {
+      "column": "19",
+      "line": "54",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "htim16",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@huart2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "huart2",
+    "location": {
+      "column": "20",
+      "line": "56",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "huart2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SystemClock_Config",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SystemClock_Config(void)",
+    "location": {
+      "column": "6",
+      "line": "64",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "SystemClock_Config",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_GPIO_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_GPIO_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "65",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_GPIO_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_ADC1_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_ADC1_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "66",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_ADC1_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_DAC_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_DAC_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "67",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_DAC_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_TIM1_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_TIM1_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "68",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_TIM1_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_TIM2_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_TIM2_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "69",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_TIM2_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_TIM6_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_TIM6_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "70",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_TIM6_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_TIM16_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_TIM16_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "71",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_TIM16_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.c@F@MX_USART2_UART_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MX_USART2_UART_Init(void)",
+    "location": {
+      "column": "13",
+      "line": "72",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "MX_USART2_UART_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_TIM_MspPostInit",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void HAL_TIM_MspPostInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "74",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "HAL_TIM_MspPostInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_UART_RxCpltCallback",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_UART_RxCpltCallback(int *)",
+    "location": {
+      "column": "6",
+      "line": "84",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\main_F302.c"
+    },
+    "name": "HAL_UART_RxCpltCallback",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.h@2389@macro@__MAIN_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__MAIN_H",
+    "location": {
+      "column": "9",
+      "line": "40",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\main_F302.h"
+    },
+    "name": "__MAIN_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@_Error_Handler",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void _Error_Handler(char *, int)",
+    "location": {
+      "column": "6",
+      "line": "53",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\main_F302.h"
+    },
+    "name": "_Error_Handler",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:main_F302.h@2760@macro@Error_Handler",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "Error_Handler",
+    "location": {
+      "column": "9",
+      "line": "55",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\main_F302.h"
+    },
+    "name": "Error_Handler",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@SIXSTEP_parameters",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SIXSTEP_parameters",
+    "location": {
+      "column": "35",
+      "line": "42",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "SIXSTEP_parameters",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PI_parameters",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PI_parameters",
+    "location": {
+      "column": "41",
+      "line": "43",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "PI_parameters",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@L6230MotorDriver",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "L6230MotorDriver",
+    "location": {
+      "column": "36",
+      "line": "44",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "L6230MotorDriver",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_ADCx_SixStep_Bemf",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_ADCx_SixStep_Bemf(void)",
+    "location": {
+      "column": "15",
+      "line": "45",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_ADCx_SixStep_Bemf",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_TIMx_SixStep_timebase",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_TIMx_SixStep_timebase(void)",
+    "location": {
+      "column": "15",
+      "line": "46",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_TIMx_SixStep_timebase",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SysTick_SixStep_MediumFrequencyTask",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SysTick_SixStep_MediumFrequencyTask(void)",
+    "location": {
+      "column": "15",
+      "line": "47",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SysTick_SixStep_MediumFrequencyTask",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_ADC_Channel",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_ADC_Channel(int)",
+    "location": {
+      "column": "8",
+      "line": "70",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_ADC_Channel",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Nucleo_Init",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_Nucleo_Init(void)",
+    "location": {
+      "column": "8",
+      "line": "90",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_Nucleo_Init",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@START_Ref_Generation",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void START_Ref_Generation(void)",
+    "location": {
+      "column": "8",
+      "line": "147",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "START_Ref_Generation",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@STOP_Ref_Generation",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void STOP_Ref_Generation(void)",
+    "location": {
+      "column": "8",
+      "line": "160",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "STOP_Ref_Generation",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Set_Ref_Generation",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void Set_Ref_Generation(int)",
+    "location": {
+      "column": "8",
+      "line": "172",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "Set_Ref_Generation",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@START_DAC",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void START_DAC(void)",
+    "location": {
+      "column": "8",
+      "line": "184",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "START_DAC",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@STOP_DAC",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void STOP_DAC(void)",
+    "location": {
+      "column": "8",
+      "line": "195",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "STOP_DAC",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SET_DAC_value",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SET_DAC_value(int)",
+    "location": {
+      "column": "8",
+      "line": "206",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "SET_DAC_value",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_ADC_ConvCpltCallback",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_ADC_ConvCpltCallback(int *)",
+    "location": {
+      "column": "8",
+      "line": "218",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "HAL_ADC_ConvCpltCallback",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_TIM_PeriodElapsedCallback",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_TIM_PeriodElapsedCallback(int *)",
+    "location": {
+      "column": "8",
+      "line": "230",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "HAL_TIM_PeriodElapsedCallback",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_SYSTICK_Callback",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_SYSTICK_Callback(void)",
+    "location": {
+      "column": "8",
+      "line": "242",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "HAL_SYSTICK_Callback",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_GPIO_EXTI_Callback",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_GPIO_EXTI_Callback(int)",
+    "location": {
+      "column": "8",
+      "line": "254",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "HAL_GPIO_EXTI_Callback",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_EnableInput_CH1_E_CH2_E_CH3_D",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_EnableInput_CH1_E_CH2_E_CH3_D(void)",
+    "location": {
+      "column": "6",
+      "line": "267",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_EnableInput_CH1_E_CH2_E_CH3_D",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_EnableInput_CH1_E_CH2_D_CH3_E",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_EnableInput_CH1_E_CH2_D_CH3_E(void)",
+    "location": {
+      "column": "7",
+      "line": "280",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_EnableInput_CH1_E_CH2_D_CH3_E",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_EnableInput_CH1_D_CH2_E_CH3_E",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_EnableInput_CH1_D_CH2_E_CH3_E(void)",
+    "location": {
+      "column": "6",
+      "line": "293",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_EnableInput_CH1_D_CH2_E_CH3_E",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_DisableInput_CH1_D_CH2_D_CH3_D",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_DisableInput_CH1_D_CH2_D_CH3_D(void)",
+    "location": {
+      "column": "6",
+      "line": "307",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_DisableInput_CH1_D_CH2_D_CH3_D",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Start_PWM_driving",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_Start_PWM_driving(void)",
+    "location": {
+      "column": "6",
+      "line": "321",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_Start_PWM_driving",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Stop_PWM_driving",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_Stop_PWM_driving(void)",
+    "location": {
+      "column": "6",
+      "line": "335",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_Stop_PWM_driving",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_HF_TIMx_SetDutyCycle_CH1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_HF_TIMx_SetDutyCycle_CH1(int)",
+    "location": {
+      "column": "6",
+      "line": "349",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_HF_TIMx_SetDutyCycle_CH1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_HF_TIMx_SetDutyCycle_CH2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_HF_TIMx_SetDutyCycle_CH2(int)",
+    "location": {
+      "column": "6",
+      "line": "364",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_HF_TIMx_SetDutyCycle_CH2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_HF_TIMx_SetDutyCycle_CH3",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_HF_TIMx_SetDutyCycle_CH3(int)",
+    "location": {
+      "column": "6",
+      "line": "378",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_HF_TIMx_SetDutyCycle_CH3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Current_Reference_Start",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_Current_Reference_Start(void)",
+    "location": {
+      "column": "6",
+      "line": "392",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_Current_Reference_Start",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Current_Reference_Stop",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_Current_Reference_Stop(void)",
+    "location": {
+      "column": "6",
+      "line": "407",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_Current_Reference_Stop",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Current_Reference_Setvalue",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void MC_SixStep_Current_Reference_Setvalue(int)",
+    "location": {
+      "column": "6",
+      "line": "422",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "MC_SixStep_Current_Reference_Setvalue",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Bemf_delay_calc",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void Bemf_delay_calc(void)",
+    "location": {
+      "column": "6",
+      "line": "438",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "Bemf_delay_calc",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Get_UART_Data",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int Get_UART_Data(void)",
+    "location": {
+      "column": "10",
+      "line": "569",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32F302_nucleo_ihm07m1.c"
+    },
+    "name": "Get_UART_Data",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2250@macro@__STM32F302_NUCLEO_IHM07M1_H",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "__STM32F302_NUCLEO_IHM07M1_H",
+    "location": {
+      "column": "9",
+      "line": "41",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "__STM32F302_NUCLEO_IHM07M1_H",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2383@macro@HF_TIMx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HF_TIMx",
+    "location": {
+      "column": "11",
+      "line": "47",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HF_TIMx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2422@macro@LF_TIMx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "LF_TIMx",
+    "location": {
+      "column": "11",
+      "line": "48",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "LF_TIMx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2461@macro@HALL_ENCODER_TIMx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HALL_ENCODER_TIMx",
+    "location": {
+      "column": "11",
+      "line": "49",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HALL_ENCODER_TIMx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2500@macro@ADCx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADCx",
+    "location": {
+      "column": "11",
+      "line": "50",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADCx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2539@macro@REFx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "REFx",
+    "location": {
+      "column": "11",
+      "line": "51",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "REFx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2579@macro@UART",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "UART",
+    "location": {
+      "column": "11",
+      "line": "52",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "UART",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2621@macro@GPIO_PORT_1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORT_1",
+    "location": {
+      "column": "11",
+      "line": "54",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_PORT_1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2660@macro@GPIO_CH1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_CH1",
+    "location": {
+      "column": "11",
+      "line": "55",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_CH1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2705@macro@GPIO_PORT_2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORT_2",
+    "location": {
+      "column": "11",
+      "line": "56",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_PORT_2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2744@macro@GPIO_CH2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_CH2",
+    "location": {
+      "column": "11",
+      "line": "57",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_CH2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2789@macro@GPIO_PORT_3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORT_3",
+    "location": {
+      "column": "11",
+      "line": "58",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_PORT_3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2828@macro@GPIO_CH3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_CH3",
+    "location": {
+      "column": "11",
+      "line": "59",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_CH3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2873@macro@GPIO_SET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_SET",
+    "location": {
+      "column": "11",
+      "line": "60",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_SET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2919@macro@GPIO_RESET",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_RESET",
+    "location": {
+      "column": "11",
+      "line": "61",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_RESET",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@2969@macro@ADC_CH_1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_1",
+    "location": {
+      "column": "11",
+      "line": "63",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3031@macro@ADC_CH_2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_2",
+    "location": {
+      "column": "11",
+      "line": "64",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3091@macro@ADC_CH_3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_3",
+    "location": {
+      "column": "11",
+      "line": "65",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3150@macro@ADC_CH_4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_4",
+    "location": {
+      "column": "11",
+      "line": "66",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_4",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3209@macro@ADC_Bemf_CH1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_Bemf_CH1",
+    "location": {
+      "column": "11",
+      "line": "67",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_Bemf_CH1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3269@macro@ADC_Bemf_CH2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_Bemf_CH2",
+    "location": {
+      "column": "11",
+      "line": "68",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_Bemf_CH2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3329@macro@ADC_Bemf_CH3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_Bemf_CH3",
+    "location": {
+      "column": "11",
+      "line": "69",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_Bemf_CH3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3391@macro@ADC_CH_1_ST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_1_ST",
+    "location": {
+      "column": "11",
+      "line": "71",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_1_ST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3478@macro@ADC_CH_2_ST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_2_ST",
+    "location": {
+      "column": "11",
+      "line": "72",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_2_ST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3562@macro@ADC_CH_3_ST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_3_ST",
+    "location": {
+      "column": "11",
+      "line": "73",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_3_ST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3645@macro@ADC_CH_4_ST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_CH_4_ST",
+    "location": {
+      "column": "11",
+      "line": "74",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_CH_4_ST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3728@macro@ADC_Bemf_CH1_ST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_Bemf_CH1_ST",
+    "location": {
+      "column": "11",
+      "line": "75",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_Bemf_CH1_ST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3812@macro@ADC_Bemf_CH2_ST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_Bemf_CH2_ST",
+    "location": {
+      "column": "11",
+      "line": "76",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_Bemf_CH2_ST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3896@macro@ADC_Bemf_CH3_ST",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ADC_Bemf_CH3_ST",
+    "location": {
+      "column": "11",
+      "line": "77",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ADC_Bemf_CH3_ST",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@3982@macro@HF_TIMx_CH1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HF_TIMx_CH1",
+    "location": {
+      "column": "11",
+      "line": "79",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HF_TIMx_CH1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4029@macro@HF_TIMx_CH2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HF_TIMx_CH2",
+    "location": {
+      "column": "11",
+      "line": "80",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HF_TIMx_CH2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4076@macro@HF_TIMx_CH3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HF_TIMx_CH3",
+    "location": {
+      "column": "11",
+      "line": "81",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HF_TIMx_CH3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4123@macro@HF_TIMx_CCR1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HF_TIMx_CCR1",
+    "location": {
+      "column": "11",
+      "line": "82",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HF_TIMx_CCR1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4186@macro@HF_TIMx_CCR2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HF_TIMx_CCR2",
+    "location": {
+      "column": "11",
+      "line": "83",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HF_TIMx_CCR2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4249@macro@HF_TIMx_CCR3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HF_TIMx_CCR3",
+    "location": {
+      "column": "11",
+      "line": "84",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HF_TIMx_CCR3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4314@macro@DAC_ENABLE",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DAC_ENABLE",
+    "location": {
+      "column": "11",
+      "line": "86",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "DAC_ENABLE",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4403@macro@DACx",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DACx",
+    "location": {
+      "column": "11",
+      "line": "87",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "DACx",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4441@macro@DACx_CH",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DACx_CH",
+    "location": {
+      "column": "11",
+      "line": "88",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "DACx_CH",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4511@macro@DACx_ALIGN",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DACx_ALIGN",
+    "location": {
+      "column": "11",
+      "line": "89",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "DACx_ALIGN",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4590@macro@GPIO_PORT_ZCR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORT_ZCR",
+    "location": {
+      "column": "11",
+      "line": "91",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_PORT_ZCR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4691@macro@GPIO_CH_ZCR",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_CH_ZCR",
+    "location": {
+      "column": "11",
+      "line": "92",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_CH_ZCR",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4791@macro@GPIO_PORT_COMM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_PORT_COMM",
+    "location": {
+      "column": "11",
+      "line": "93",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_PORT_COMM",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4886@macro@GPIO_CH_COMM",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GPIO_CH_COMM",
+    "location": {
+      "column": "11",
+      "line": "94",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GPIO_CH_COMM",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@4982@macro@STARTM_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STARTM_CMD",
+    "location": {
+      "column": "11",
+      "line": "96",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "STARTM_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5060@macro@STOPMT_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STOPMT_CMD",
+    "location": {
+      "column": "11",
+      "line": "97",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "STOPMT_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5137@macro@SETSPD_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "SETSPD_CMD",
+    "location": {
+      "column": "11",
+      "line": "98",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "SETSPD_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5227@macro@GETSPD_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "GETSPD_CMD",
+    "location": {
+      "column": "11",
+      "line": "99",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "GETSPD_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5320@macro@INIREF_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "INIREF_CMD",
+    "location": {
+      "column": "11",
+      "line": "100",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "INIREF_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5429@macro@POLESP_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "POLESP_CMD",
+    "location": {
+      "column": "11",
+      "line": "101",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "POLESP_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5520@macro@ACCELE_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "ACCELE_CMD",
+    "location": {
+      "column": "11",
+      "line": "102",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "ACCELE_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5634@macro@KP_PRM_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "KP_PRM_CMD",
+    "location": {
+      "column": "11",
+      "line": "103",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "KP_PRM_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5719@macro@KI_PRM_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "KI_PRM_CMD",
+    "location": {
+      "column": "11",
+      "line": "104",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "KI_PRM_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5804@macro@POTENZ_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "POTENZ_CMD",
+    "location": {
+      "column": "11",
+      "line": "105",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "POTENZ_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5890@macro@HELP_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "HELP_CMD",
+    "location": {
+      "column": "11",
+      "line": "106",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "HELP_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@5961@macro@STATUS_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "STATUS_CMD",
+    "location": {
+      "column": "11",
+      "line": "107",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "STATUS_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:stm32F302_nucleo_ihm07m1.h@6056@macro@DIRECT_CMD",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "DIRECT_CMD",
+    "location": {
+      "column": "11",
+      "line": "108",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "DIRECT_CMD",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@hadc1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "hadc1",
+    "location": {
+      "column": "28",
+      "line": "110",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "hadc1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim1",
+    "location": {
+      "column": "28",
+      "line": "111",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "htim1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim2",
+    "location": {
+      "column": "28",
+      "line": "112",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "htim2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim6",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim6",
+    "location": {
+      "column": "28",
+      "line": "113",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "htim6",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim16",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim16",
+    "location": {
+      "column": "28",
+      "line": "114",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "htim16",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@hdac",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "hdac",
+    "location": {
+      "column": "28",
+      "line": "115",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "hdac",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@huart2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "huart2",
+    "location": {
+      "column": "29",
+      "line": "116",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "huart2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Get_UART_Data",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "int Get_UART_Data(void)",
+    "location": {
+      "column": "12",
+      "line": "129",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "Get_UART_Data",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_ADC_Channel",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_ADC_Channel(void)",
+    "location": {
+      "column": "8",
+      "line": "130",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_ADC_Channel",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Nucleo_Init",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_Nucleo_Init(void)",
+    "location": {
+      "column": "8",
+      "line": "131",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_Nucleo_Init",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@START_Ref_Generation",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void START_Ref_Generation(void)",
+    "location": {
+      "column": "8",
+      "line": "132",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "START_Ref_Generation",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@STOP_Ref_Generation",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void STOP_Ref_Generation(void)",
+    "location": {
+      "column": "8",
+      "line": "133",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "STOP_Ref_Generation",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Set_Ref_Generation",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void Set_Ref_Generation(void)",
+    "location": {
+      "column": "8",
+      "line": "134",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "Set_Ref_Generation",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@START_DAC",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void START_DAC(void)",
+    "location": {
+      "column": "8",
+      "line": "135",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "START_DAC",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@STOP_DAC",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void STOP_DAC(void)",
+    "location": {
+      "column": "8",
+      "line": "136",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "STOP_DAC",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SET_DAC_value",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void SET_DAC_value(void)",
+    "location": {
+      "column": "8",
+      "line": "137",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "SET_DAC_value",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@Bemf_delay_calc",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void Bemf_delay_calc(void)",
+    "location": {
+      "column": "8",
+      "line": "138",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "Bemf_delay_calc",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_EnableInput_CH1_E_CH2_E_CH3_D",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_EnableInput_CH1_E_CH2_E_CH3_D(void)",
+    "location": {
+      "column": "8",
+      "line": "139",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_EnableInput_CH1_E_CH2_E_CH3_D",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_EnableInput_CH1_E_CH2_D_CH3_E",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_EnableInput_CH1_E_CH2_D_CH3_E(void)",
+    "location": {
+      "column": "8",
+      "line": "140",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_EnableInput_CH1_E_CH2_D_CH3_E",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_EnableInput_CH1_D_CH2_E_CH3_E",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_EnableInput_CH1_D_CH2_E_CH3_E(void)",
+    "location": {
+      "column": "8",
+      "line": "141",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_EnableInput_CH1_D_CH2_E_CH3_E",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_DisableInput_CH1_D_CH2_D_CH3_D",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_DisableInput_CH1_D_CH2_D_CH3_D(void)",
+    "location": {
+      "column": "8",
+      "line": "142",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_DisableInput_CH1_D_CH2_D_CH3_D",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Start_PWM_driving",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_Start_PWM_driving(void)",
+    "location": {
+      "column": "8",
+      "line": "143",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_Start_PWM_driving",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Stop_PWM_driving",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_Stop_PWM_driving(void)",
+    "location": {
+      "column": "8",
+      "line": "144",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_Stop_PWM_driving",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_HF_TIMx_SetDutyCycle_CH1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_HF_TIMx_SetDutyCycle_CH1(void)",
+    "location": {
+      "column": "8",
+      "line": "145",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_HF_TIMx_SetDutyCycle_CH1",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_HF_TIMx_SetDutyCycle_CH2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_HF_TIMx_SetDutyCycle_CH2(void)",
+    "location": {
+      "column": "8",
+      "line": "146",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_HF_TIMx_SetDutyCycle_CH2",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_HF_TIMx_SetDutyCycle_CH3",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_HF_TIMx_SetDutyCycle_CH3(void)",
+    "location": {
+      "column": "8",
+      "line": "147",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_HF_TIMx_SetDutyCycle_CH3",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Current_Reference_Start",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_Current_Reference_Start(void)",
+    "location": {
+      "column": "8",
+      "line": "148",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_Current_Reference_Start",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Current_Reference_Stop",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_Current_Reference_Stop(void)",
+    "location": {
+      "column": "8",
+      "line": "149",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_Current_Reference_Stop",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@MC_SixStep_Current_Reference_Setvalue",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void MC_SixStep_Current_Reference_Setvalue(void)",
+    "location": {
+      "column": "8",
+      "line": "150",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Inc\\stm32F302_nucleo_ihm07m1.h"
+    },
+    "name": "MC_SixStep_Current_Reference_Setvalue",
+    "origin": "user_include",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@_Error_Handler",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void _Error_Handler(char *, int)",
+    "location": {
+      "column": "13",
+      "line": "42",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "_Error_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_MspInit(void)",
+    "location": {
+      "column": "6",
+      "line": "49",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_ADC_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_ADC_MspInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "80",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_ADC_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_ADC_MspDeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_ADC_MspDeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "126",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_ADC_MspDeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_DAC_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_DAC_MspInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "161",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_DAC_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_DAC_MspDeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_DAC_MspDeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "191",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_DAC_MspDeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_TIM_Base_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_TIM_Base_MspInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "223",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_TIM_Base_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_TIM_MspPostInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_TIM_MspPostInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "308",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_TIM_MspPostInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_TIM_Base_MspDeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_TIM_Base_MspDeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "376",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_TIM_Base_MspDeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_UART_MspInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_UART_MspInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "457",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_UART_MspInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@HAL_UART_MspDeInit",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void HAL_UART_MspDeInit(int *)",
+    "location": {
+      "column": "6",
+      "line": "490",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_hal_msp.c"
+    },
+    "name": "HAL_UART_MspDeInit",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@SIXSTEP_parameters",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "SIXSTEP_parameters",
+    "location": {
+      "column": "33",
+      "line": "41",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "SIXSTEP_parameters",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@hadc1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "hadc1",
+    "location": {
+      "column": "26",
+      "line": "45",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "hadc1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@hdac",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "hdac",
+    "location": {
+      "column": "26",
+      "line": "46",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "hdac",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim1",
+    "location": {
+      "column": "26",
+      "line": "47",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "htim1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@htim6",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "htim6",
+    "location": {
+      "column": "26",
+      "line": "48",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "htim6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@huart2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "huart2",
+    "location": {
+      "column": "27",
+      "line": "49",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "huart2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@UART_Set_Value",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void UART_Set_Value(void)",
+    "location": {
+      "column": "13",
+      "line": "50",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "UART_Set_Value",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM6_DAC_IRQHandler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM6_DAC_IRQHandler(void)",
+    "location": {
+      "column": "6",
+      "line": "58",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "TIM6_DAC_IRQHandler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@ADC1_IRQHandler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void ADC1_IRQHandler(void)",
+    "location": {
+      "column": "6",
+      "line": "73",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "ADC1_IRQHandler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@SysTick_Handler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void SysTick_Handler(void)",
+    "location": {
+      "column": "6",
+      "line": "87",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "SysTick_Handler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@USART2_IRQHandler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void USART2_IRQHandler(void)",
+    "location": {
+      "column": "6",
+      "line": "102",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "USART2_IRQHandler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@TIM1_BRK_TIM15_IRQHandler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void TIM1_BRK_TIM15_IRQHandler(void)",
+    "location": {
+      "column": "6",
+      "line": "118",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "TIM1_BRK_TIM15_IRQHandler",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@EXTI15_10_IRQHandler",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void EXTI15_10_IRQHandler(void)",
+    "location": {
+      "column": "6",
+      "line": "136",
+      "path": "C:\\Users\\Prameet\\Desktop\\Speed Input\\Src\\stm32f3xx_it.c"
+    },
+    "name": "EXTI15_10_IRQHandler",
+    "origin": "project_file",
+    "scope": null
+  }
+]

@@ -1,0 +1,907 @@
+###############################################################################
+#
+# IAR ELF Linker V8.42.1.236/W32 for ARM                  11/Feb/2020  15:27:27
+# Copyright 2007-2019 IAR Systems AB.
+#
+#    Output file  =
+#        C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Exe\STM32F302R8-Nucleo
+#        Configuration.out
+#    Map file     =
+#        C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\List\STM32F302R8-Nucleo
+#        Configuration.map
+#    Command line =
+#        -f C:\Users\Prameet\AppData\Local\Temp\EWDA8A.tmp
+#        ("C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\6Step_Lib.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\l6230.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\main_F302.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\startup_stm32f302x8.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32F302_nucleo_ihm07m1.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_adc.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_adc_ex.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_cortex.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_dac.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_dac_ex.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_dma.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_gpio.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_i2c.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_i2c_ex.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_msp.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_rcc.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_rcc_ex.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_tim.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_tim_ex.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_uart.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_uart_ex.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_hal_usart.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_it.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\stm32f3xx_nucleo.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\system_stm32f3xx.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\UART_UI.o"
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj\X-NUCLEO-IHM07M1.o"
+#        --redirect _Printf=_PrintfFull --redirect _Scanf=_ScanfFull
+#        --no_out_extension -o
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Exe\STM32F302R8-Nucleo
+#        Configuration.out" --map
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\List\STM32F302R8-Nucleo
+#        Configuration.map" --config
+#        "C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor
+#        Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\stm32f302x8_flash.icf"
+#        --semihosting --entry __iar_program_start --vfe --text_out locale)
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because no calls to memory allocation
+functions were found in the application outside of system library
+functions, and there are calls to deallocation functions in the
+application.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x800'0000 { ro section .intvec };
+"P1":  place in [from 0x800'0000 to 0x800'ffff] { ro };
+define block CSTACK with size = 1K, alignment = 8 { };
+define block HEAP with size = 512, alignment = 8 { };
+"P2":  place in [from 0x2000'0000 to 0x2000'3fff] {
+          rw, block CSTACK, block HEAP };
+initialize by copy { rw };
+
+  Section            Kind         Address    Size  Object
+  -------            ----         -------    ----  ------
+"A0":                                       0x188
+  .intvec            ro code   0x800'0000   0x188  startup_stm32f302x8.o [1]
+                             - 0x800'0188   0x188
+
+"P1":                                      0x85d3
+  .text              ro code   0x800'0188  0x1404  6Step_Lib.o [1]
+  .text              ro code   0x800'158c   0x230  stm32f3xx_hal_gpio.o [1]
+  .text              ro code   0x800'17bc   0x5f8  stm32F302_nucleo_ihm07m1.o [1]
+  .text              ro code   0x800'1db4   0x838  stm32f3xx_hal_rcc.o [1]
+  .text              ro code   0x800'25ec   0x230  I64DivMod.o [4]
+  .text              ro code   0x800'281c    0x22  I64Shl.o [4]
+  .text              ro code   0x800'283e    0x3a  zero_init3.o [4]
+  .text              ro code   0x800'2878   0x77e  stm32f3xx_hal_tim.o [1]
+  .text              ro code   0x800'2ff6    0x1e  xencoding_8859_1.o [2]
+  .text              ro code   0x800'3014   0xbea  stm32f3xx_hal_adc_ex.o [1]
+  .text              ro code   0x800'3bfe     0xa  xsprout.o [2]
+  .text              ro code   0x800'3c08   0x130  X-NUCLEO-IHM07M1.o [1]
+  .text              ro code   0x800'3d38   0x484  stm32f3xx_hal_tim_ex.o [1]
+  .text              ro code   0x800'41bc   0x102  stm32f3xx_hal_dac_ex.o [1]
+  .rodata            const     0x800'42be     0x2  xlocale_c.o [2]
+  .text              ro code   0x800'42c0    0x28  stm32f3xx_hal.o [1]
+  .text              ro code   0x800'42e8     0x2  I64DivZer.o [4]
+  .rodata            const     0x800'42ea     0x2  xlocale_c.o [2]
+  .text              ro code   0x800'42ec   0x320  stm32f3xx_hal_msp.o [1]
+  .text              ro code   0x800'460c     0x2  stm32f3xx_hal_tim.o [1]
+  .text              ro code   0x800'460e     0x2  stm32f3xx_hal_tim.o [1]
+  .text              ro code   0x800'4610     0x2  stm32f3xx_hal_tim.o [1]
+  .text              ro code   0x800'4612     0x2  stm32f3xx_hal_tim.o [1]
+  .text              ro code   0x800'4614     0x2  stm32f3xx_hal_tim_ex.o [1]
+  .text              ro code   0x800'4616     0x2  stm32f3xx_hal_tim.o [1]
+  .text              ro code   0x800'4618     0x2  stm32f3xx_hal_tim_ex.o [1]
+  .text              ro code   0x800'461a     0x2  stm32f3xx_hal_adc.o [1]
+  .text              ro code   0x800'461c     0x2  stm32f3xx_hal_adc_ex.o [1]
+  .text              ro code   0x800'461e     0x2  stm32f3xx_hal_adc_ex.o [1]
+  .text              ro code   0x800'4620     0x2  stm32f3xx_hal_adc.o [1]
+  .text              ro code   0x800'4622     0x2  stm32f3xx_hal_adc_ex.o [1]
+  .text              ro code   0x800'4624     0x2  stm32f3xx_hal_dac.o [1]
+  .rodata            const     0x800'4626     0x1  xlocale_c.o [2]
+  .text              ro code   0x800'4628   0x178  stm32f3xx_hal_cortex.o [1]
+  .text              ro code   0x800'47a0  0x10c6  xprintffull.o [2]
+  .text              ro code   0x800'5868    0x7c  xlocale_c.o [2]
+  .text              ro code   0x800'58e4    0x16  strchr.o [4]
+  .text              ro code   0x800'58fc    0x40  xfail_s.o [2]
+  .text              ro code   0x800'593c    0x36  strlen.o [4]
+  .text              ro code   0x800'5974    0x58  memchr.o [4]
+  .text              ro code   0x800'59cc    0xa6  ABImemcpy.o [4]
+  .text              ro code   0x800'5a74    0x70  frexp.o [3]
+  .text              ro code   0x800'5ae4    0x2e  DblCmpLe.o [3]
+  .text              ro code   0x800'5b14    0x2e  DblCmpGe.o [3]
+  .text              ro code   0x800'5b44   0x13a  ldexp.o [3]
+  .text              ro code   0x800'5c80    0x3a  DblToS32.o [3]
+  .text              ro code   0x800'5cbc    0x22  S32ToDbl.o [3]
+  .text              ro code   0x800'5ce0    0xe2  DblSub.o [3]
+  .text              ro code   0x800'5dc4   0x246  DblDiv.o [3]
+  .text              ro code   0x800'600c    0x28  DblToU32.o [3]
+  .text              ro code   0x800'6034    0x1a  U32ToDbl.o [3]
+  .text              ro code   0x800'6050   0x1a2  DblMul.o [3]
+  .text              ro code   0x800'61f2     0xa  xmbcurmax.o [2]
+  .text              ro code   0x800'61fc     0x6  abort.o [2]
+  .text              ro code   0x800'6204   0x17a  DblAdd.o [3]
+  .text              ro code   0x800'6380    0x14  exit.o [5]
+  .text              ro code   0x800'6394   0x976  main_F302.o [1]
+  .text              ro code   0x800'6d0c   0x82e  stm32f3xx_hal_i2c.o [1]
+  .text              ro code   0x800'753c    0x68  DblToFlt.o [3]
+  .text              ro code   0x800'75a4   0x8b8  stm32f3xx_hal_uart.o [1]
+  .text              ro code   0x800'7e5c    0x24  stm32f3xx_hal.o [1]
+  .text              ro code   0x800'7e80    0x48  FltToDbl.o [3]
+  .text              ro code   0x800'7ec8    0x40  sprintf.o [2]
+  .text              ro code   0x800'7f08    0x18  stm32f3xx_hal.o [1]
+  .text              ro code   0x800'7f20   0x234  stm32f3xx_hal_rcc_ex.o [1]
+  .text              ro code   0x800'8154    0x2c  stm32f3xx_hal_dac.o [1]
+  .text              ro code   0x800'8180    0xc8  stm32f3xx_hal_i2c_ex.o [1]
+  .text              ro code   0x800'8248    0x58  stm32f3xx_hal_dma.o [1]
+  .text              ro code   0x800'82a0     0x2  stm32f3xx_hal_uart.o [1]
+  .text              ro code   0x800'82a2     0x2  stm32f3xx_hal_uart_ex.o [1]
+  .text              ro code   0x800'82a4     0x2  stm32f3xx_hal_uart.o [1]
+  .rodata            const     0x800'82a8    0xa0  main_F302.o [1]
+  .text              ro code   0x800'8348    0x78  l6230.o [1]
+  .text              ro code   0x800'83c0    0x78  lz77_init_single.o [4]
+  .text              ro code   0x800'8438    0x74  stm32f3xx_it.o [1]
+  .text              ro code   0x800'84ac    0x74  system_stm32f3xx.o [1]
+  .rodata            const     0x800'8520    0x34  main_F302.o [1]
+  .text              ro code   0x800'8554    0x28  data_init.o [4]
+  .iar.init_table    const     0x800'857c    0x20  - Linker created -
+  .text              ro code   0x800'859c    0x1e  cmain.o [4]
+  .text              ro code   0x800'85ba     0x4  low_level_init.o [2]
+  .text              ro code   0x800'85be     0x4  exit.o [2]
+  .text              ro code   0x800'85c4     0xa  cexit.o [4]
+  .rodata            const     0x800'85d0    0x10  stm32f3xx_hal_rcc.o [1]
+  .rodata            const     0x800'85e0    0x10  stm32f3xx_hal_rcc.o [1]
+  .rodata            const     0x800'85f0    0x10  system_stm32f3xx.o [1]
+  .text              ro code   0x800'8600    0x10  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8610     0xc  cstartup_M.o [4]
+  .rodata            const     0x800'861c     0x8  system_stm32f3xx.o [1]
+  .text              ro code   0x800'8624     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8628     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'862c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8630     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8634     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8638     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'863c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8640     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8644     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8648     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'864c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8650     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8654     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8658     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'865c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8660     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8664     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8668     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'866c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8670     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8674     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8678     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'867c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8680     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8684     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8688     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'868c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8690     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8694     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'8698     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'869c     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86a0     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86a4     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86a8     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86ac     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86b0     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86b4     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86b8     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86bc     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86c0     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86c4     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86c8     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86cc     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86d0     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86d4     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86d8     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86dc     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86e0     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86e4     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86e8     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86ec     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86f0     0x4  startup_stm32f302x8.o [1]
+  .text              ro code   0x800'86f4     0x4  startup_stm32f302x8.o [1]
+  .rodata            const     0x800'86f8     0x0  zero_init3.o [4]
+  .rodata            const     0x800'86f8     0x0  lz77_init_single.o [4]
+  Initializer bytes  const     0x800'86f8    0x63  <for P2-1>
+                             - 0x800'875b  0x85d3
+
+"P2", part 1 of 3:                           0xc6
+  P2-1                        0x2000'0000    0xc6  <Init block>
+    .data            inited   0x2000'0000    0x30  l6230.o [1]
+    .data            inited   0x2000'0030     0x4  system_stm32f3xx.o [1]
+    .data            inited   0x2000'0034    0x38  xlocale_c.o [2]
+    .data            inited   0x2000'006c    0x48  xlocale_c.o [2]
+    .data            inited   0x2000'00b4     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00b6     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00b8     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00ba     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00bc     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00be     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00c0     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00c2     0x2  6Step_Lib.o [1]
+    .data            inited   0x2000'00c4     0x1  6Step_Lib.o [1]
+    .data            inited   0x2000'00c5     0x1  6Step_Lib.o [1]
+                            - 0x2000'00c6    0xc6
+
+"P2", part 2 of 3:                          0x3c8
+  .bss               zero     0x2000'00c8    0xc4  6Step_Lib.o [1]
+  .bss               zero     0x2000'018c    0x70  main_F302.o [1]
+  .bss               zero     0x2000'01fc    0x54  main_F302.o [1]
+  .bss               zero     0x2000'0250    0x4c  main_F302.o [1]
+  .bss               zero     0x2000'029c    0x40  main_F302.o [1]
+  .bss               zero     0x2000'02dc    0x40  main_F302.o [1]
+  .bss               zero     0x2000'031c    0x40  main_F302.o [1]
+  .bss               zero     0x2000'035c    0x40  main_F302.o [1]
+  .bss               zero     0x2000'039c    0x28  6Step_Lib.o [1]
+  .bss               zero     0x2000'03c4    0x28  6Step_Lib.o [1]
+  .bss               zero     0x2000'03ec    0x14  6Step_Lib.o [1]
+  .bss               zero     0x2000'0400    0x14  main_F302.o [1]
+  .bss               zero     0x2000'0414     0xc  6Step_Lib.o [1]
+  .bss               zero     0x2000'0420     0x8  6Step_Lib.o [1]
+  .bss               zero     0x2000'0428     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'042c     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0430     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0434     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0438     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'043c     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0440     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0444     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0448     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'044c     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0450     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0454     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0458     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'045c     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0460     0x4  6Step_Lib.o [1]
+  .bss               zero     0x2000'0464     0x4  main_F302.o [1]
+  .bss               zero     0x2000'0468     0x4  main_F302.o [1]
+  .bss               zero     0x2000'046c     0x4  main_F302.o [1]
+  .bss               zero     0x2000'0470     0x4  stm32f3xx_hal.o [1]
+  .bss               zero     0x2000'0474     0x4  xfail_s.o [2]
+  .bss               zero     0x2000'0478     0x2  6Step_Lib.o [1]
+  .bss               zero     0x2000'047a     0x2  6Step_Lib.o [1]
+  .bss               zero     0x2000'047c     0x2  6Step_Lib.o [1]
+  .bss               zero     0x2000'047e     0x2  6Step_Lib.o [1]
+  .bss               zero     0x2000'0480     0x2  6Step_Lib.o [1]
+  .bss               zero     0x2000'0482     0x2  6Step_Lib.o [1]
+  .bss               zero     0x2000'0484     0x2  main_F302.o [1]
+  .bss               zero     0x2000'0486     0x2  main_F302.o [1]
+  .bss               zero     0x2000'0488     0x2  main_F302.o [1]
+  .bss               zero     0x2000'048a     0x1  6Step_Lib.o [1]
+  .bss               zero     0x2000'048b     0x1  6Step_Lib.o [1]
+  .bss               zero     0x2000'048c     0x1  6Step_Lib.o [1]
+  .bss               zero     0x2000'048d     0x1  6Step_Lib.o [1]
+  .bss               zero     0x2000'048e     0x1  main_F302.o [1]
+                            - 0x2000'048f   0x3c7
+
+"P2", part 3 of 3:                          0x400
+  CSTACK                      0x2000'0490   0x400  <Block>
+    CSTACK           uninit   0x2000'0490   0x400  <Block tail>
+                            - 0x2000'0890   0x400
+
+Unused ranges:
+
+         From           To    Size
+         ----           --    ----
+   0x800'875b   0x800'ffff  0x78a5
+  0x2000'00c6  0x2000'00c7     0x2
+  0x2000'0890  0x2000'3fff  0x3770
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x3c7:
+          0x2000'00c8  0x3c7
+
+Copy/lz77 (__iar_lz77_init_single3)
+    1 source range, total size 0x63 (50% of destination):
+           0x800'86f8   0x63
+    1 destination range, total size 0xc6:
+          0x2000'0000   0xc6
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                      ro code  ro data  rw data
+    ------                      -------  -------  -------
+command line/config:
+    -----------------------------------------------------
+    Total:
+
+C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj: [1]
+    6Step_Lib.o                   5'124        9      410
+    X-NUCLEO-IHM07M1.o              304
+    l6230.o                         120       24       48
+    main_F302.o                   2'422      212      567
+    startup_stm32f302x8.o           620
+    stm32F302_nucleo_ihm07m1.o    1'528
+    stm32f3xx_hal.o                 100                 4
+    stm32f3xx_hal_adc.o               4
+    stm32f3xx_hal_adc_ex.o        3'056
+    stm32f3xx_hal_cortex.o          376
+    stm32f3xx_hal_dac.o              46
+    stm32f3xx_hal_dac_ex.o          258
+    stm32f3xx_hal_dma.o              88
+    stm32f3xx_hal_gpio.o            560
+    stm32f3xx_hal_i2c.o           2'094
+    stm32f3xx_hal_i2c_ex.o          200
+    stm32f3xx_hal_msp.o             800
+    stm32f3xx_hal_rcc.o           2'104       32
+    stm32f3xx_hal_rcc_ex.o          564
+    stm32f3xx_hal_tim.o           1'928
+    stm32f3xx_hal_tim_ex.o        1'160
+    stm32f3xx_hal_uart.o          2'236
+    stm32f3xx_hal_uart_ex.o           2
+    stm32f3xx_it.o                  116
+    system_stm32f3xx.o              116       26        4
+    -----------------------------------------------------
+    Total:                       25'926      303    1'033
+
+dl7M_tlf.a: [2]
+    abort.o                           6
+    exit.o                            4
+    low_level_init.o                  4
+    sprintf.o                        64
+    xencoding_8859_1.o               30
+    xfail_s.o                        64                 4
+    xlocale_c.o                     124       69      128
+    xmbcurmax.o                      10
+    xprintffull.o                 4'294
+    xsprout.o                        10
+    -----------------------------------------------------
+    Total:                        4'610       69      132
+
+m7M_tl.a: [3]
+    DblAdd.o                        378
+    DblCmpGe.o                       46
+    DblCmpLe.o                       46
+    DblDiv.o                        582
+    DblMul.o                        418
+    DblSub.o                        226
+    DblToFlt.o                      104
+    DblToS32.o                       58
+    DblToU32.o                       40
+    FltToDbl.o                       72
+    S32ToDbl.o                       34
+    U32ToDbl.o                       26
+    frexp.o                         112
+    ldexp.o                         314
+    -----------------------------------------------------
+    Total:                        2'456
+
+rt7M_tl.a: [4]
+    ABImemcpy.o                     166
+    I64DivMod.o                     560
+    I64DivZer.o                       2
+    I64Shl.o                         34
+    cexit.o                          10
+    cmain.o                          30
+    cstartup_M.o                     12
+    data_init.o                      40
+    lz77_init_single.o              120
+    memchr.o                         88
+    strchr.o                         22
+    strlen.o                         54
+    zero_init3.o                     58
+    -----------------------------------------------------
+    Total:                        1'196
+
+shb_l.a: [5]
+    exit.o                           20
+    -----------------------------------------------------
+    Total:                           20
+
+    Gaps                             35        4
+    Linker created                            32    1'024
+---------------------------------------------------------
+    Grand Total:                 34'243      408    2'189
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address   Size  Type      Object
+-----                       -------   ----  ----      ------
+.iar.init_table$$Base    0x800'857c          --   Gb  - Linker created -
+.iar.init_table$$Limit   0x800'859c          --   Gb  - Linker created -
+?main                    0x800'859d         Code  Gb  cmain.o [4]
+ADC1_IRQHandler          0x800'8449    0xa  Code  Gb  stm32f3xx_it.o [1]
+ADC_ConversionStop       0x800'3afb   0xec  Code  Lc  stm32f3xx_hal_adc_ex.o [1]
+ADC_Disable              0x800'3a75   0x86  Code  Lc  stm32f3xx_hal_adc_ex.o [1]
+ADC_Enable               0x800'39f7   0x7e  Code  Lc  stm32f3xx_hal_adc_ex.o [1]
+AHBPrescTable            0x800'85f0   0x10  Data  Gb  system_stm32f3xx.o [1]
+APBPrescTable            0x800'861c    0x8  Data  Gb  system_stm32f3xx.o [1]
+ARR_LF                  0x2000'0444    0x4  Data  Gb  6Step_Lib.o [1]
+BSP_X_NUCLEO_FAULT_LED_OFF
+                         0x800'3d1f    0xe  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+BSP_X_NUCLEO_FAULT_LED_ON
+                         0x800'3d11    0xe  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+Bemf_delay_calc          0x800'1a05  0x360  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+CSTACK$$Base            0x2000'0490          --   Gb  - Linker created -
+CSTACK$$Limit           0x2000'0890          --   Gb  - Linker created -
+CacheMore                0x800'586d   0x28  Code  Lc  xlocale_c.o [2]
+Current_Reference_Setvalue
+                         0x800'83b3    0xe  Code  Gb  l6230.o [1]
+Current_Reference_Start
+                         0x800'83a3    0x8  Code  Gb  l6230.o [1]
+Current_Reference_Stop   0x800'83ab    0x8  Code  Gb  l6230.o [1]
+DisableInput_CH1_D_CH2_D_CH3_D
+                         0x800'8361    0x8  Code  Gb  l6230.o [1]
+EXTI15_10_IRQHandler     0x800'84a1    0xc  Code  Gb  stm32f3xx_it.o [1]
+El_Speed_Hz             0x2000'044c    0x4  Data  Gb  6Step_Lib.o [1]
+EnableInput_CH1_D_CH2_E_CH3_E
+                         0x800'8359    0x8  Code  Gb  l6230.o [1]
+EnableInput_CH1_E_CH2_D_CH3_E
+                         0x800'8351    0x8  Code  Gb  l6230.o [1]
+EnableInput_CH1_E_CH2_E_CH3_D
+                         0x800'8349    0x8  Code  Gb  l6230.o [1]
+Enable_start_button     0x2000'00c4    0x1  Data  Gb  6Step_Lib.o [1]
+Gx                      0x2000'0464    0x4  Data  Gb  main_F302.o [1]
+Gy                      0x2000'0468    0x4  Data  Gb  main_F302.o [1]
+Gyro_X_RAW              0x2000'0484    0x2  Data  Gb  main_F302.o [1]
+Gyro_Y_RAW              0x2000'0486    0x2  Data  Gb  main_F302.o [1]
+Gyro_Z_RAW              0x2000'0488    0x2  Data  Gb  main_F302.o [1]
+Gz                      0x2000'046c    0x4  Data  Gb  main_F302.o [1]
+HAL_ADC_ConfigChannel    0x800'35d9  0x41c  Code  Gb  stm32f3xx_hal_adc_ex.o [1]
+HAL_ADC_ConvCpltCallback
+                         0x800'1937    0xa  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+HAL_ADC_ErrorCallback    0x800'4621    0x2  Code  Wk  stm32f3xx_hal_adc.o [1]
+HAL_ADC_GetValue         0x800'336f    0x6  Code  Gb  stm32f3xx_hal_adc_ex.o [1]
+HAL_ADC_IRQHandler       0x800'3375  0x24a  Code  Gb  stm32f3xx_hal_adc_ex.o [1]
+HAL_ADC_Init             0x800'3015  0x22a  Code  Gb  stm32f3xx_hal_adc_ex.o [1]
+HAL_ADC_LevelOutOfWindowCallback
+                         0x800'461b    0x2  Code  Wk  stm32f3xx_hal_adc.o [1]
+HAL_ADC_MspInit          0x800'4361   0x76  Code  Gb  stm32f3xx_hal_msp.o [1]
+HAL_ADC_Start_IT         0x800'323f   0xd2  Code  Gb  stm32f3xx_hal_adc_ex.o [1]
+HAL_ADC_Stop_IT          0x800'3311   0x5e  Code  Gb  stm32f3xx_hal_adc_ex.o [1]
+HAL_DAC_ConfigChannel    0x800'4263   0x5c  Code  Gb  stm32f3xx_hal_dac_ex.o [1]
+HAL_DAC_DMAUnderrunCallbackCh1
+                         0x800'4625    0x2  Code  Wk  stm32f3xx_hal_dac.o [1]
+HAL_DAC_IRQHandler       0x800'4227   0x3c  Code  Gb  stm32f3xx_hal_dac_ex.o [1]
+HAL_DAC_Init             0x800'8155   0x2c  Code  Gb  stm32f3xx_hal_dac.o [1]
+HAL_DAC_MspInit          0x800'43d7   0x4c  Code  Gb  stm32f3xx_hal_msp.o [1]
+HAL_DAC_SetValue         0x800'41bd   0x24  Code  Gb  stm32f3xx_hal_dac_ex.o [1]
+HAL_DAC_Start            0x800'41e1   0x46  Code  Gb  stm32f3xx_hal_dac_ex.o [1]
+HAL_DMA_Abort_IT         0x800'8249   0x58  Code  Gb  stm32f3xx_hal_dma.o [1]
+HAL_Delay                0x800'7f09   0x18  Code  Wk  stm32f3xx_hal.o [1]
+HAL_GPIO_EXTI_Callback   0x800'1953    0xa  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+HAL_GPIO_EXTI_IRQHandler
+                         0x800'1775   0x20  Code  Gb  stm32f3xx_hal_gpio.o [1]
+HAL_GPIO_Init            0x800'158d  0x1c4  Code  Gb  stm32f3xx_hal_gpio.o [1]
+HAL_GPIO_TogglePin       0x800'1769    0xc  Code  Gb  stm32f3xx_hal_gpio.o [1]
+HAL_GPIO_WritePin        0x800'1751   0x18  Code  Gb  stm32f3xx_hal_gpio.o [1]
+HAL_GetTick              0x800'152d    0x6  Code  Gb  6Step_Lib.o [1]
+HAL_I2CEx_ConfigAnalogFilter
+                         0x800'8181   0x64  Code  Gb  stm32f3xx_hal_i2c_ex.o [1]
+HAL_I2CEx_ConfigDigitalFilter
+                         0x800'81e5   0x64  Code  Gb  stm32f3xx_hal_i2c_ex.o [1]
+HAL_I2C_Init             0x800'6d0d   0xcc  Code  Gb  stm32f3xx_hal_i2c.o [1]
+HAL_I2C_Mem_Read         0x800'6ff9  0x218  Code  Gb  stm32f3xx_hal_i2c.o [1]
+HAL_I2C_Mem_Write        0x800'6dd9  0x218  Code  Gb  stm32f3xx_hal_i2c.o [1]
+HAL_IncTick              0x800'1523    0xa  Code  Gb  6Step_Lib.o [1]
+HAL_Init                 0x800'7e5d   0x20  Code  Gb  stm32f3xx_hal.o [1]
+HAL_InitTick             0x800'42c1   0x28  Code  Wk  stm32f3xx_hal.o [1]
+HAL_MspInit              0x800'42ed   0x74  Code  Gb  stm32f3xx_hal_msp.o [1]
+HAL_NVIC_EnableIRQ       0x800'4741    0xe  Code  Gb  stm32f3xx_hal_cortex.o [1]
+HAL_NVIC_SetPriority     0x800'4717   0x2a  Code  Gb  stm32f3xx_hal_cortex.o [1]
+HAL_NVIC_SetPriorityGrouping
+                         0x800'470b    0xc  Code  Gb  stm32f3xx_hal_cortex.o [1]
+HAL_RCCEx_PeriphCLKConfig
+                         0x800'7f21  0x214  Code  Gb  stm32f3xx_hal_rcc_ex.o [1]
+HAL_RCC_ClockConfig      0x800'233f  0x1d4  Code  Gb  stm32f3xx_hal_rcc.o [1]
+HAL_RCC_GetHCLKFreq      0x800'2571    0x6  Code  Gb  stm32f3xx_hal_rcc.o [1]
+HAL_RCC_GetPCLK1Freq     0x800'2577   0x18  Code  Gb  stm32f3xx_hal_rcc.o [1]
+HAL_RCC_GetPCLK2Freq     0x800'258f   0x18  Code  Gb  stm32f3xx_hal_rcc.o [1]
+HAL_RCC_GetSysClockFreq
+                         0x800'2513   0x5e  Code  Gb  stm32f3xx_hal_rcc.o [1]
+HAL_RCC_OscConfig        0x800'1db5  0x58a  Code  Gb  stm32f3xx_hal_rcc.o [1]
+HAL_SYSTICK_CLKSourceConfig
+                         0x800'475b   0x1c  Code  Gb  stm32f3xx_hal_cortex.o [1]
+HAL_SYSTICK_Callback     0x800'194b    0x8  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+HAL_SYSTICK_Config       0x800'474f    0xc  Code  Gb  stm32f3xx_hal_cortex.o [1]
+HAL_SYSTICK_IRQHandler   0x800'4799    0x8  Code  Gb  stm32f3xx_hal_cortex.o [1]
+HAL_TIMEx_BreakCallback
+                         0x800'4615    0x2  Code  Wk  stm32f3xx_hal_tim_ex.o [1]
+HAL_TIMEx_CommutationCallback
+                         0x800'4619    0x2  Code  Wk  stm32f3xx_hal_tim_ex.o [1]
+HAL_TIMEx_ConfigBreakDeadTime
+                         0x800'3ef3   0x94  Code  Gb  stm32f3xx_hal_tim_ex.o [1]
+HAL_TIMEx_MasterConfigSynchronization
+                         0x800'3e9f   0x54  Code  Gb  stm32f3xx_hal_tim_ex.o [1]
+HAL_TIM_Base_Init        0x800'2879   0x38  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_Base_MspInit     0x800'4423   0xec  Code  Gb  stm32f3xx_hal_msp.o [1]
+HAL_TIM_Base_Start_IT    0x800'28b1   0x1e  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_Base_Stop_IT     0x800'28cf   0x36  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_ConfigClockSource
+                         0x800'2bbb  0x11e  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_ConfigOCrefClear
+                         0x800'3f89  0x164  Code  Gb  stm32f3xx_hal_tim_ex.o [1]
+HAL_TIM_IRQHandler       0x800'2a45  0x176  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_MspPostInit      0x800'450f   0x80  Code  Gb  stm32f3xx_hal_msp.o [1]
+HAL_TIM_PWM_ConfigChannel
+                         0x800'3d39  0x166  Code  Gb  stm32f3xx_hal_tim_ex.o [1]
+HAL_TIM_PWM_Init         0x800'2905   0x38  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_PWM_Start        0x800'293d   0x60  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_PWM_Stop         0x800'299d   0x96  Code  Gb  stm32f3xx_hal_tim.o [1]
+HAL_TIM_PeriodElapsedCallback
+                         0x800'1941    0xa  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+HAL_UARTEx_WakeupCallback
+                         0x800'82a3    0x2  Code  Wk  stm32f3xx_hal_uart_ex.o [1]
+HAL_UART_IRQHandler      0x800'77b5  0x174  Code  Gb  stm32f3xx_hal_uart.o [1]
+HAL_UART_Init            0x800'75a5   0x7e  Code  Gb  stm32f3xx_hal_uart.o [1]
+HAL_UART_MspInit         0x800'458f   0x54  Code  Gb  stm32f3xx_hal_msp.o [1]
+HAL_UART_Receive_IT      0x800'76f3   0xc2  Code  Gb  stm32f3xx_hal_uart.o [1]
+HAL_UART_RxCpltCallback
+                         0x800'6509   0x3c  Code  Gb  main_F302.o [1]
+HAL_UART_Transmit        0x800'7623   0xd0  Code  Gb  stm32f3xx_hal_uart.o [1]
+HFBuffer                0x2000'03ec   0x14  Data  Gb  6Step_Lib.o [1]
+HFBufferIndex           0x2000'047a    0x2  Data  Gb  6Step_Lib.o [1]
+HF_TIMx_SetDutyCycle_CH1
+                         0x800'8379    0xe  Code  Gb  l6230.o [1]
+HF_TIMx_SetDutyCycle_CH2
+                         0x800'8387    0xe  Code  Gb  l6230.o [1]
+HF_TIMx_SetDutyCycle_CH3
+                         0x800'8395    0xe  Code  Gb  l6230.o [1]
+I2C_Flush_TXDR           0x800'735f   0x24  Code  Lc  stm32f3xx_hal_i2c.o [1]
+I2C_IsAcknowledgeFailed
+                         0x800'7483   0x7e  Code  Lc  stm32f3xx_hal_i2c.o [1]
+I2C_RequestMemoryRead    0x800'72bb   0xa4  Code  Lc  stm32f3xx_hal_i2c.o [1]
+I2C_RequestMemoryWrite   0x800'7215   0xa6  Code  Lc  stm32f3xx_hal_i2c.o [1]
+I2C_TransferConfig       0x800'7501   0x2e  Code  Lc  stm32f3xx_hal_i2c.o [1]
+I2C_WaitOnFlagUntilTimeout
+                         0x800'7383   0x56  Code  Lc  stm32f3xx_hal_i2c.o [1]
+I2C_WaitOnSTOPFlagUntilTimeout
+                         0x800'7431   0x52  Code  Lc  stm32f3xx_hal_i2c.o [1]
+I2C_WaitOnTXISFlagUntilTimeout
+                         0x800'73d9   0x58  Code  Lc  stm32f3xx_hal_i2c.o [1]
+L6230MotorDriver        0x2000'0000   0x30  Data  Gb  l6230.o [1]
+L6230_DCH1CH2CH3_IO_Write
+                         0x800'3c87   0x2a  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_ECH1CH2_DCH3_IO_Write
+                         0x800'3c09   0x2a  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_ECH1CH3_DCH2_IO_Write
+                         0x800'3c33   0x2a  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_ECH2CH3_DCH1_IO_Write
+                         0x800'3c5d   0x2a  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_HFTIM_DC_CH1       0x800'3ced    0xc  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_HFTIM_DC_CH2       0x800'3cf9    0xc  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_HFTIM_DC_CH3       0x800'3d05    0xc  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_Start_PWM_generation
+                         0x800'3cb1   0x1e  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+L6230_Stop_PWM_generation
+                         0x800'3ccf   0x1e  Code  Gb  X-NUCLEO-IHM07M1.o [1]
+MCM_Sqrt                 0x800'079d   0x9a  Code  Gb  6Step_Lib.o [1]
+MC_ADCx_SixStep_Bemf     0x800'1235  0x2be  Code  Gb  6Step_Lib.o [1]
+MC_Bemf_Delay            0x800'0cdb    0x8  Code  Gb  6Step_Lib.o [1]
+MC_EXT_button_SixStep    0x800'14f3   0x30  Code  Gb  6Step_Lib.o [1]
+MC_GetElSpeedHz          0x800'0d75   0x52  Code  Gb  6Step_Lib.o [1]
+MC_GetMechSpeedRPM       0x800'0dc7   0x1a  Code  Gb  6Step_Lib.o [1]
+MC_PI_Controller         0x800'0a7f   0xfa  Code  Gb  6Step_Lib.o [1]
+MC_Potentiometer_filter
+                         0x800'0f75   0xd8  Code  Gb  6Step_Lib.o [1]
+MC_Set_PI_param          0x800'0a3f   0x40  Code  Gb  6Step_Lib.o [1]
+MC_Set_Speed             0x800'0c21   0xba  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_ADC_Channel   0x800'17bd   0x3e  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_ARR_Bemf      0x800'1179   0xb4  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_ARR_step      0x800'0837  0x122  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Alignment     0x800'0959   0x5a  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Current_Reference_Setvalue
+                         0x800'19f3   0x12  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_Current_Reference_Start
+                         0x800'19db    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_Current_Reference_Stop
+                         0x800'19e7    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_DisableInput_CH1_D_CH2_D_CH3_D
+                         0x800'1981    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_EnableInput_CH1_D_CH2_E_CH3_E
+                         0x800'1975    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_EnableInput_CH1_E_CH2_D_CH3_E
+                         0x800'1969    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_EnableInput_CH1_E_CH2_E_CH3_D
+                         0x800'195d    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_HF_TIMx_SetDutyCycle_CH1
+                         0x800'19a5   0x12  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_HF_TIMx_SetDutyCycle_CH2
+                         0x800'19b7   0x12  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_HF_TIMx_SetDutyCycle_CH3
+                         0x800'19c9   0x12  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_INIT          0x800'0e1d   0x46  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Init_main_data
+                         0x800'0de1   0x36  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_NEXT_step     0x800'0273  0x11a  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Nucleo_Init   0x800'17fb   0xda  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_RESET         0x800'038d  0x2a6  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Ramp_Motor_calc
+                         0x800'0633  0x16a  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Speed_Potentiometer
+                         0x800'09e7   0x58  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Speed_Val_target_potentiometer
+                         0x800'09b3   0x34  Code  Gb  6Step_Lib.o [1]
+MC_SixStep_Start_PWM_driving
+                         0x800'198d    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_Stop_PWM_driving
+                         0x800'1999    0xc  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+MC_SixStep_TABLE         0x800'0189   0xea  Code  Gb  6Step_Lib.o [1]
+MC_Speed_Filter          0x800'0e89   0xb6  Code  Gb  6Step_Lib.o [1]
+MC_StartMotor            0x800'0ce3   0x36  Code  Gb  6Step_Lib.o [1]
+MC_StopMotor             0x800'0d19   0x4c  Code  Gb  6Step_Lib.o [1]
+MC_SysTick_SixStep_MediumFrequencyTask
+                         0x800'1099   0xca  Code  Gb  6Step_Lib.o [1]
+MC_TIMx_SixStep_timebase
+                         0x800'0e63   0x1c  Code  Gb  6Step_Lib.o [1]
+MC_Task_Speed            0x800'0b79   0xa4  Code  Gb  6Step_Lib.o [1]
+MPU6050_Init             0x800'6395   0xac  Code  Gb  main_F302.o [1]
+MPU6050_Read_Gyro        0x800'6441   0xc8  Code  Gb  main_F302.o [1]
+MX_ADC1_Init             0x800'66c7   0x90  Code  Lc  main_F302.o [1]
+MX_DAC_Init              0x800'6757   0x46  Code  Lc  main_F302.o [1]
+MX_GPIO_Init             0x800'6bc9   0xc2  Code  Lc  main_F302.o [1]
+MX_I2C1_Init             0x800'6b19   0x6a  Code  Lc  main_F302.o [1]
+MX_TIM16_Init            0x800'6a55   0xc4  Code  Lc  main_F302.o [1]
+MX_TIM1_Init             0x800'679d  0x1b0  Code  Lc  main_F302.o [1]
+MX_TIM2_Init             0x800'694d   0xba  Code  Lc  main_F302.o [1]
+MX_TIM6_Init             0x800'6a07   0x4e  Code  Lc  main_F302.o [1]
+MX_USART2_UART_Init      0x800'6b83   0x46  Code  Lc  main_F302.o [1]
+Mech_Speed_RPM          0x2000'0448    0x4  Data  Gb  6Step_Lib.o [1]
+NVIC_EncodePriority      0x800'469b   0x40  Code  Lc  stm32f3xx_hal_cortex.o [1]
+PI_parameters           0x2000'0414    0xc  Data  Gb  6Step_Lib.o [1]
+Region$$Table$$Base      0x800'857c          --   Gb  - Linker created -
+Region$$Table$$Limit     0x800'859c          --   Gb  - Linker created -
+Rotor_poles_pairs       0x2000'0478    0x2  Data  Gb  6Step_Lib.o [1]
+SET_DAC_value            0x800'1921   0x16  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+SIXSTEP_parameters      0x2000'00c8   0xc4  Data  Gb  6Step_Lib.o [1]
+START_DAC                0x800'1913    0xe  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+START_Ref_Generation     0x800'18d5   0x14  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+STOP_Ref_Generation      0x800'18e9   0x14  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+Set_Ref_Generation       0x800'18fd   0x16  Code  Gb  stm32F302_nucleo_ihm07m1.o [1]
+Start_PWM_driving        0x800'8369    0x8  Code  Gb  l6230.o [1]
+Stop_PWM_driving         0x800'8371    0x8  Code  Gb  l6230.o [1]
+SysTick_Config           0x800'46db   0x30  Code  Lc  stm32f3xx_hal_cortex.o [1]
+SysTick_Handler          0x800'8453    0xc  Code  Gb  stm32f3xx_it.o [1]
+SystemClock_Config       0x800'660d   0xba  Code  Gb  main_F302.o [1]
+SystemCoreClock         0x2000'0030    0x4  Data  Gb  system_stm32f3xx.o [1]
+SystemInit               0x800'84ad   0x50  Code  Gb  system_stm32f3xx.o [1]
+TIM1_BRK_TIM15_IRQHandler
+                         0x800'8469   0x1e  Code  Gb  stm32f3xx_it.o [1]
+TIM6_DAC_IRQHandler      0x800'8439   0x10  Code  Gb  stm32f3xx_it.o [1]
+TIM_Base_SetConfig       0x800'2cdb   0x7e  Code  Gb  stm32f3xx_hal_tim.o [1]
+TIM_CCxChannelCmd        0x800'2fdb   0x1c  Code  Gb  stm32f3xx_hal_tim.o [1]
+TIM_ETR_SetConfig        0x800'2fc1   0x1a  Code  Gb  stm32f3xx_hal_tim.o [1]
+TIM_ITRx_SetConfig       0x800'2fa7   0x1a  Code  Lc  stm32f3xx_hal_tim.o [1]
+TIM_OC1_SetConfig        0x800'2d59   0x84  Code  Gb  stm32f3xx_hal_tim.o [1]
+TIM_OC2_SetConfig        0x800'2ddd   0x7c  Code  Gb  stm32f3xx_hal_tim.o [1]
+TIM_OC3_SetConfig        0x800'2e59   0x7a  Code  Gb  stm32f3xx_hal_tim.o [1]
+TIM_OC4_SetConfig        0x800'2ed3   0x60  Code  Gb  stm32f3xx_hal_tim.o [1]
+TIM_OC5_SetConfig        0x800'40ed   0x5a  Code  Lc  stm32f3xx_hal_tim_ex.o [1]
+TIM_OC6_SetConfig        0x800'4149   0x5c  Code  Lc  stm32f3xx_hal_tim_ex.o [1]
+TIM_TI1_ConfigInputStage
+                         0x800'2f55   0x28  Code  Lc  stm32f3xx_hal_tim.o [1]
+TIM_TI2_ConfigInputStage
+                         0x800'2f7d   0x2a  Code  Lc  stm32f3xx_hal_tim.o [1]
+T_single_step           0x2000'0438    0x4  Data  Gb  6Step_Lib.o [1]
+T_single_step_first_value
+                        0x2000'043c    0x4  Data  Gb  6Step_Lib.o [1]
+Tick_cnt                0x2000'045c    0x4  Data  Gb  6Step_Lib.o [1]
+Time_vector_prev_tmp    0x2000'0434    0x4  Data  Gb  6Step_Lib.o [1]
+Time_vector_tmp         0x2000'0430    0x4  Data  Gb  6Step_Lib.o [1]
+UART_AdvFeatureConfig    0x800'7b4d   0xda  Code  Gb  stm32f3xx_hal_uart.o [1]
+UART_CheckIdleState      0x800'7c27   0x6e  Code  Gb  stm32f3xx_hal_uart.o [1]
+UART_DMAAbortOnError     0x800'7d25   0x1a  Code  Lc  stm32f3xx_hal_uart.o [1]
+UART_EndRxTransfer       0x800'7d03   0x20  Code  Lc  stm32f3xx_hal_uart.o [1]
+UART_EndTransmit_IT      0x800'7db1   0x20  Code  Gb  stm32f3xx_hal_uart.o [1]
+UART_Receive_IT          0x800'7dd1   0x8c  Code  Gb  stm32f3xx_hal_uart.o [1]
+UART_SetConfig           0x800'7929  0x206  Code  Gb  stm32f3xx_hal_uart.o [1]
+UART_Transmit_IT         0x800'7d41   0x70  Code  Gb  stm32f3xx_hal_uart.o [1]
+UART_WaitOnFlagUntilTimeout
+                         0x800'7c95   0x6e  Code  Gb  stm32f3xx_hal_uart.o [1]
+USART2_IRQHandler        0x800'845f    0xa  Code  Gb  stm32f3xx_it.o [1]
+_Encoding_8859_1_Mbrlen
+                         0x800'3009    0x2  Code  Gb  xencoding_8859_1.o [2]
+_Encoding_8859_1_Wctomb
+                         0x800'2ff7   0x12  Code  Gb  xencoding_8859_1.o [2]
+_Error_Handler           0x800'6d09    0x2  Code  Gb  main_F302.o [1]
+_LitobFull               0x800'56b3  0x10a  Code  Lc  xprintffull.o [2]
+_Locale_lconv           0x2000'0034   0x38  Data  Lc  xlocale_c.o [2]
+_PrintfFull              0x800'47a1  0xcc2  Code  Gb  xprintffull.o [2]
+_PutcharsFull            0x800'5825   0x2e  Code  Lc  xprintffull.o [2]
+_PutstrFull              0x800'55f3   0xc0  Code  Lc  xprintffull.o [2]
+_PuttxtFull              0x800'54e7  0x10c  Code  Lc  xprintffull.o [2]
+_SProut                  0x800'3bff    0xa  Code  Gb  xsprout.o [2]
+__NVIC_EnableIRQ         0x800'4651   0x1e  Code  Lc  stm32f3xx_hal_cortex.o [1]
+__NVIC_GetPriorityGrouping
+                         0x800'4647    0xa  Code  Lc  stm32f3xx_hal_cortex.o [1]
+__NVIC_SetPriority       0x800'466f   0x2c  Code  Lc  stm32f3xx_hal_cortex.o [1]
+__NVIC_SetPriorityGrouping
+                         0x800'4629   0x1e  Code  Lc  stm32f3xx_hal_cortex.o [1]
+__aeabi_cdcmple          0x800'5ae5         Code  Gb  DblCmpLe.o [3]
+__aeabi_cdrcmple         0x800'5b15         Code  Gb  DblCmpGe.o [3]
+__aeabi_d2f              0x800'753d         Code  Gb  DblToFlt.o [3]
+__aeabi_d2iz             0x800'5c81         Code  Gb  DblToS32.o [3]
+__aeabi_d2uiz            0x800'600d         Code  Gb  DblToU32.o [3]
+__aeabi_dadd             0x800'6205         Code  Gb  DblAdd.o [3]
+__aeabi_ddiv             0x800'5dc5         Code  Gb  DblDiv.o [3]
+__aeabi_dmul             0x800'6051         Code  Gb  DblMul.o [3]
+__aeabi_dsub             0x800'5ce1         Code  Gb  DblSub.o [3]
+__aeabi_f2d              0x800'7e81         Code  Gb  FltToDbl.o [3]
+__aeabi_i2d              0x800'5cbd         Code  Gb  S32ToDbl.o [3]
+__aeabi_ldiv0            0x800'42e9         Code  Gb  I64DivZer.o [4]
+__aeabi_llsl             0x800'281d         Code  Gb  I64Shl.o [4]
+__aeabi_memcpy           0x800'59cd         Code  Gb  ABImemcpy.o [4]
+__aeabi_memcpy4          0x800'59ed         Code  Gb  ABImemcpy.o [4]
+__aeabi_memcpy8          0x800'59ed         Code  Gb  ABImemcpy.o [4]
+__aeabi_ui2d             0x800'6035         Code  Gb  U32ToDbl.o [3]
+__aeabi_uldivmod         0x800'25ed         Code  Gb  I64DivMod.o [4]
+__cmain                  0x800'859d         Code  Gb  cmain.o [4]
+__exit                   0x800'6381   0x14  Code  Gb  exit.o [5]
+__iar_Fail_s             0x800'58fd   0x1c  Code  Gb  xfail_s.o [2]
+__iar_Mbcurmax           0x800'61f3    0xa  Code  Gb  xmbcurmax.o [2]
+__iar_Memchr             0x800'5975         Code  Gb  memchr.o [4]
+__iar_Strchr             0x800'58e5         Code  Gb  strchr.o [4]
+__iar_dadd               0x800'5cf1         Code  Gb  DblSub.o [3]
+__iar_data_init3         0x800'8555   0x28  Code  Gb  data_init.o [4]
+__iar_dsub               0x800'6215         Code  Gb  DblAdd.o [3]
+__iar_dsubStart          0x800'6227         Code  Gb  DblAdd.o [3]
+__iar_frexp              0x800'5a81         Code  Gb  frexp.o [3]
+__iar_frexp64            0x800'5a75         Code  Gb  frexp.o [3]
+__iar_frexpl             0x800'5a81         Code  Gb  frexp.o [3]
+__iar_globLocale        0x2000'006c   0x48  Data  Lc  xlocale_c.o [2]
+__iar_global_Locale      0x800'5869    0x4  Code  Gb  xlocale_c.o [2]
+__iar_ldexp64            0x800'5b45         Code  Gb  ldexp.o [3]
+__iar_lz77_init_single3
+                         0x800'83c1   0x78  Code  Gb  lz77_init_single.o [4]
+__iar_program_start      0x800'8611         Code  Gb  cstartup_M.o [4]
+__iar_scalbln64          0x800'5b45         Code  Gb  ldexp.o [3]
+__iar_scalbn64           0x800'5b45         Code  Gb  ldexp.o [3]
+__iar_zero_init3         0x800'283f   0x3a  Code  Gb  zero_init3.o [4]
+__low_level_init         0x800'85bb    0x4  Code  Gb  low_level_init.o [2]
+__vector_table           0x800'0000         Data  Gb  startup_stm32f302x8.o [1]
+_call_main               0x800'85a9         Code  Gb  cmain.o [4]
+_exit                    0x800'85c5         Code  Gb  cexit.o [4]
+_gLocale_mblen           0x800'58d1    0x4  Code  Gb  xlocale_c.o [2]
+_gLocale_mblenInt        0x800'5895   0x2c  Code  Gb  xlocale_c.o [2]
+_gLocale_wctomb          0x800'58d5    0x4  Code  Gb  xlocale_c.o [2]
+_gLocale_wctombInt       0x800'58cd    0x4  Code  Gb  xlocale_c.o [2]
+_main                    0x800'85b7         Code  Gb  cmain.o [4]
+aPLLMULFactorTable       0x800'85d0   0x10  Data  Gb  stm32f3xx_hal_rcc.o [1]
+aPredivFactorTable       0x800'85e0   0x10  Data  Gb  stm32f3xx_hal_rcc.o [1]
+abort                    0x800'61fd    0x6  Code  Gb  abort.o [2]
+array_completed         0x2000'048a    0x1  Data  Gb  6Step_Lib.o [1]
+buffer_completed        0x2000'048b    0x1  Data  Gb  6Step_Lib.o [1]
+byte                    0x2000'048e    0x1  Data  Gb  main_F302.o [1]
+cnt_bemf_event          0x2000'0480    0x2  Data  Gb  6Step_Lib.o [1]
+constant_k              0x2000'042c    0x4  Data  Gb  6Step_Lib.o [1]
+constant_multiplier_tmp
+                        0x2000'0420    0x8  Data  Gb  6Step_Lib.o [1]
+counter_ARR_Bemf        0x2000'0460    0x4  Data  Gb  6Step_Lib.o [1]
+dac_status              0x2000'00c5    0x1  Data  Gb  6Step_Lib.o [1]
+delta                   0x2000'0440    0x4  Data  Gb  6Step_Lib.o [1]
+exit                     0x800'85bf    0x4  Code  Gb  exit.o [2]
+frexp                    0x800'5a75         Code  Gb  frexp.o [3]
+frexpl                   0x800'5a75         Code  Gb  frexp.o [3]
+hadc1                   0x2000'01fc   0x54  Data  Gb  main_F302.o [1]
+hdac                    0x2000'0400   0x14  Data  Gb  main_F302.o [1]
+hi2c1                   0x2000'0250   0x4c  Data  Gb  main_F302.o [1]
+htim1                   0x2000'029c   0x40  Data  Gb  main_F302.o [1]
+htim16                  0x2000'035c   0x40  Data  Gb  main_F302.o [1]
+htim2                   0x2000'02dc   0x40  Data  Gb  main_F302.o [1]
+htim6                   0x2000'031c   0x40  Data  Gb  main_F302.o [1]
+huart2                  0x2000'018c   0x70  Data  Gb  main_F302.o [1]
+index_ARR_step          0x2000'00b8    0x2  Data  Gb  6Step_Lib.o [1]
+index_adc_chn           0x2000'047c    0x2  Data  Gb  6Step_Lib.o [1]
+index_align             0x2000'00c0    0x2  Data  Gb  6Step_Lib.o [1]
+index_array             0x2000'00b4    0x2  Data  Gb  6Step_Lib.o [1]
+index_motor_run         0x2000'047e    0x2  Data  Gb  6Step_Lib.o [1]
+index_pot_filt          0x2000'00c2    0x2  Data  Gb  6Step_Lib.o [1]
+index_startup_motor     0x2000'00ba    0x2  Data  Gb  6Step_Lib.o [1]
+ldexp                    0x800'5b45         Code  Gb  ldexp.o [3]
+ldexpl                   0x800'5b45         Code  Gb  ldexp.o [3]
+localeconv               0x800'58d9    0x4  Code  Gb  xlocale_c.o [2]
+main                     0x800'6545   0xc8  Code  Gb  main_F302.o [1]
+mech_accel_hz           0x2000'0428    0x4  Data  Gb  6Step_Lib.o [1]
+memchr                   0x800'5975         Code  Gb  memchr.o [4]
+n_zcr_startup           0x2000'0450    0x4  Data  Gb  6Step_Lib.o [1]
+potent_filtered         0x2000'0482    0x2  Data  Gb  6Step_Lib.o [1]
+scalbln                  0x800'5b45         Code  Gb  ldexp.o [3]
+scalblnl                 0x800'5b45         Code  Gb  ldexp.o [3]
+scalbn                   0x800'5b45         Code  Gb  ldexp.o [3]
+scalbnl                  0x800'5b45         Code  Gb  ldexp.o [3]
+scale                    0x800'57bd   0x46  Code  Lc  xprintffull.o [2]
+sec_hand                0x2000'0474    0x4  Data  Lc  xfail_s.o [2]
+shift_n_sqrt            0x2000'00be    0x2  Data  Gb  6Step_Lib.o [1]
+speed_fdbk_error        0x2000'048d    0x1  Data  Gb  6Step_Lib.o [1]
+speed_sum_pot_filt      0x2000'0458    0x4  Data  Gb  6Step_Lib.o [1]
+speed_sum_sp_filt       0x2000'0454    0x4  Data  Gb  6Step_Lib.o [1]
+speed_tmp_array         0x2000'039c   0x28  Data  Gb  6Step_Lib.o [1]
+speed_tmp_buffer        0x2000'03c4   0x28  Data  Gb  6Step_Lib.o [1]
+sprintf                  0x800'7ec9   0x40  Code  Gb  sprintf.o [2]
+startup_bemf_failure    0x2000'048c    0x1  Data  Gb  6Step_Lib.o [1]
+strchr                   0x800'58e5         Code  Gb  strchr.o [4]
+strlen                   0x800'593d         Code  Gb  strlen.o [4]
+target_speed            0x2000'00bc    0x2  Data  Gb  6Step_Lib.o [1]
+test_motor_run          0x2000'00b6    0x2  Data  Gb  6Step_Lib.o [1]
+uwTick                  0x2000'0470    0x4  Data  Gb  stm32f3xx_hal.o [1]
+
+
+[1] = C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\Motor Control\en.X-CUBE-SPN7\STM32CubeExpansion_SPN7_V1.1.0\Projects\Multi\Examples\MotorControl\EWARM\STM32F302R8-Nucleo\STM32F302R8-Nucleo\Obj
+[2] = dl7M_tlf.a
+[3] = m7M_tl.a
+[4] = rt7M_tl.a
+[5] = shb_l.a
+
+  34'243 bytes of readonly  code memory
+     408 bytes of readonly  data memory
+   2'189 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

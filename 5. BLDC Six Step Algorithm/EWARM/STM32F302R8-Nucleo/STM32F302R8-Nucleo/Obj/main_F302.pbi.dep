@@ -1,0 +1,4 @@
+main_F302.pbi: \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\6.\ BLDC\ Six\ Step\ Algorithm\Src\main_F302.c \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\6.\ BLDC\ Six\ Step\ Algorithm\EWARM\STM32F302R8-Nucleo\..\..\Inc\main_F302.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdio.h

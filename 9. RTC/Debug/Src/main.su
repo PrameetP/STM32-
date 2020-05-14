@@ -1,0 +1,9 @@
+main.c:65:6:set_time	32	static
+main.c:92:6:set_alarm	48	static
+main.c:114:6:get_time	40	static
+main.c:131:5:main	8	static
+main.c:179:6:SystemClock_Config	120	static
+main.c:225:13:MX_RTC_Init	8	static
+main.c:269:13:MX_USART2_UART_Init	8	static
+main.c:304:13:MX_GPIO_Init	48	static
+main.c:340:6:Error_Handler	4	static

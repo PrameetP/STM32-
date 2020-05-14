@@ -1,0 +1,37 @@
+stm32f3xx_hal_i2c_ex.pbi: \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\Drivers\STM32F3xx_HAL_Driver\Src\stm32f3xx_hal_i2c_ex.c \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Inc\stm32f3xx_hal_conf.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_rcc.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/CMSIS/Device/ST/STM32F3xx/Include\stm32f3xx.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f302x8.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/CMSIS/Include\core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.4\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/CMSIS/Include/cmsis_version.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/CMSIS/Include/cmsis_compiler.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\iccarm_builtin.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/CMSIS/Device/ST/STM32F3xx/Include/system_stm32f3xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stddef.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ysizet.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_gpio.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_exti.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_dma.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_cortex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_flash.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_flash_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_i2c.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_pwr.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_pwr_ex.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc\stm32f3xx_hal_uart.h \
+  C:\Users\Prameet\STM32CubeIDE\workspace_1.0.2\7.\ MPU6050\ Read\ Gyro\ and\ Accelerometer\EWARM/../Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_uart_ex.h
